@@ -5,8 +5,8 @@
 
 ## About Me 🚀
 
-- 🌱 Currently learning: **[Front-End Web Development] through the <a href="https://www.alxafrica.com">ALX Program</a>, where I'm building strong foundations in HTML, CSS, JavaScript, and React.<br><br>**
-- 🔭 I'm passionate about crafting clean, accessible, and responsive user interfaces.
+- 🚀 Currently learning: **[Front-End Web Development] through the <a href="https://www.alxafrica.com">ALX Program</a>, where I'm building strong foundations in HTML, CSS, JavaScript, and React.**
+- 💡 I'm passionate about crafting clean, accessible, and responsive user interfaces.
 - 📍 Based in Addis Ababa, Ethiopia — open to remote opportunities globally!
 - 🌱 Currently improving my skills in <strong>React, UI/UX Design</strong>, and <strong>GitHub Workflows</strong>.
 - 🎯 Goal for 2025: Land a full-time role or internship as a front-end developer.
@@ -21,6 +21,6 @@
 ## Get in Touch 📬
 
 - **[LinkedIn]**(www.linkedin.com/in/selamawity)
-- **[Twitter]**(twitter.com/SelamawitOT7)
+- **[Twitter]**(www.twitter.com/SelamawitOT7)
 
 
