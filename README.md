@@ -51,8 +51,6 @@
 
 - ⚙️ **Coming Soon** — A RESTful API built using Node.js & Express
 
-📌 Check out my pinned repos for more!
-
 ---
 
 ## 📊 GitHub Stats
