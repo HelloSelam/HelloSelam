@@ -1,26 +1,75 @@
 <h1 align="center">Hi there, I'm Selamawit 👋</h1>
 <p align="center">
-  <em>A passionate Junior Web Developer | ALX Learner | Lifelong Tech Explorer</em>
+  <em>Aspiring Full-Stack Web Developer | ALX Learner | Virtual Assistant-in-Training</em>
 </p>
 
-## About Me 🚀
+---
 
-- 🚀 Currently learning: **[Front-End Web Development] through the <a href="https://www.alxafrica.com">ALX Program</a>, where I'm building strong foundations in HTML, CSS, JavaScript, and React.**
-- 💡 I'm passionate about crafting clean, accessible, and responsive user interfaces.
-- 📍 Based in Addis Ababa, Ethiopia — open to remote opportunities globally!
-- 🌱 Currently improving my skills in <strong>React, UI/UX Design</strong>, and <strong>GitHub Workflows</strong>.
-- 🎯 Goal for 2025: Land a full-time role or internship as a front-end developer.
-- 📫 How to reach me: **[selamawit8916@gmail.com]**
+## 🚀 About Me
 
-## My Skills 🧠
+- 🌟 Currently learning Full-Stack Web Development and Virtual Assistance through the [ALX Program](https://www.alxafrica.com).
+- 💡 Passionate about building clean, accessible, and responsive web applications using HTML, CSS, JavaScript, and React.
+- 🧠 Exploring back-end technologies like Node.js and Express.
+- 🛠️ Also learning UI/UX Design, GitHub Workflows, and Virtual Assistant tools like Trello, Canva, and Google Workspace.
+- 📍 Based in Addis Ababa, Ethiopia — open to **remote or hybrid opportunities** worldwide.
+- 🎯 2025 Goal: Land a full-time role or internship in web development or virtual assistance.
+- 📫 Reach me at: **selamawit8916@gmail.com**
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+---
 
-## Get in Touch 📬
+## 🧠 My Skills
 
-- **[LinkedIn]**(www.linkedin.com/in/selamawity)
-- **[Twitter]**(www.twitter.com/SelamawitOT7)
+**Front-End Development:**
+- HTML5, CSS3, JavaScript
+- Responsive Design & Accessibility
+- React.js (in progress)
 
+**Back-End Development:**
+- Python fundamentals
+- API development basics
+- Node.js, Express.js (beginner)
+- Leveraging AI tools for smarter, more efficient learning
 
+**Virtual Assistant Tools:**
+- Google Workspace (Docs, Sheets, Gmail)
+- Canva, Trello, Zoom, Asana, ClickUp
+- Task organization, inbox management, time blocking
+
+**Soft Skills:**
+- Remote collaboration
+- Clear communication
+- Productivity & time management
+
+---
+
+## 🛠️ Projects I'm Working On
+
+- 📄 **My First Portfolio** — A responsive front-end portfolio website using HTML & CSS.  
+  [View Repository](https://github.com/HelloSelam/My_First_Portfolio)
+
+- 🧰 **VA Toolkit Setup Guide** — Templates and guides for organizing work as a Virtual Assistant (Work in Progress)
+
+- ⚙️ **Coming Soon** — A RESTful API built using Node.js & Express
+
+📌 Check out my pinned repos for more!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HelloSelam&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloSelam&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/selamawit-yeruk)
+- 📧 Email: [selamawit8916@gmail.com](mailto:selamawit8916@gmail.com)
+- 💻 [GitHub Projects](https://github.com/HelloSelam)
+
+---
+
+*“Building skills. Creating opportunities. One step at a time.”*
