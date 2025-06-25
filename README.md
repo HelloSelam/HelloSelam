@@ -65,7 +65,8 @@
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/selamawit-yeruk)
-- 📧 Email: [selamawit8916@gmail.com](mailto:selamawit8916@gmail.com)
+- 🐦 [Twitter](https://twitter.com/SelamawitOT7)
+- 📧 [selamawit8916@gmail.com](mailto:selamawit8916@gmail.com)
 - 💻 [GitHub Projects](https://github.com/HelloSelam)
 
 ---
